@@ -1,4 +1,4 @@
-# BIg_Integers_Implementation_C-
+# BIG_INTEGERS_IMPLEMENTATION_C++
 A self implementation of a library which is used to handle very large integers in c++. No built in library is used. Everything implemented from scratch.
 
 The library takes the input of numbers as strings and then converts them to array where the unit digit of the number is stored at index 0.
